@@ -2,7 +2,6 @@ README
 
 Was able to get the stylesheet to work for all three html files.
 Was able to redirect from cs webpage to github page
-Was not able to get image to work - broken link
-	Will fix later
+Fixed location of img source so it no longer appears as abroken image
 
 Spent about 2 hours working on assignment
