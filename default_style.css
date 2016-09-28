@@ -21,9 +21,10 @@ body {
 	padding-right: 10px;
 }
 
-img {
-	margin-left: 42.5%;
-	margin-right:42.5%;
+img.displayed {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 	height: 100px;
 	width:100px;
 }
