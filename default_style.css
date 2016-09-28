@@ -1,0 +1,29 @@
+body {
+	background-color: #E0FFFF;
+	font-family: "Times New Roman", Times, serif;
+	margin-left: 20%;
+	margin-right: 20%;}
+
+#header {
+	text-align: center;
+	font-size: 3em;
+}
+
+.section-head {
+	font-weight: bold;
+	font-size: 1.25em;
+}
+
+.link {
+	text-align: center;
+	font-size: 1.25em;
+	padding-left: 10px;
+	padding-right: 10px;
+}
+
+img {
+	margin-left: 40%;
+	margin-right:50%;
+	height: 100px;
+	width:100px;
+}
